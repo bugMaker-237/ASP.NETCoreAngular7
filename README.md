@@ -23,7 +23,7 @@ This project is inspired by [@asadsahi's](https://github.com/asadsahi/) work [As
     $git clone https://github.com/bugMaker-237/ASP.NETCoreAngular7
 2. Change directory:
     $cd ASP.NETCoreAngular7
-3. Restore packages && .Net project:
+3. Restore packages && run .Net project:
     F5 from either [VScode] (https://code.visualstudio.com/) or [Visual Studio IDE](https://www.visualstudio.com/):
     OR
     $cd .\MPWebClient\
